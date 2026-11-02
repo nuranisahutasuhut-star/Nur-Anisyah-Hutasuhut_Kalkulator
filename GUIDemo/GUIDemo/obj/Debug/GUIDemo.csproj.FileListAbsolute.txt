@@ -1,0 +1,10 @@
+D:\ce3d\csharp\GUIDemo\GUIDemo\obj\Debug\GUIDemo.csproj.AssemblyReference.cache
+D:\ce3d\csharp\GUIDemo\GUIDemo\obj\Debug\GUIDemo.Form1.resources
+D:\ce3d\csharp\GUIDemo\GUIDemo\obj\Debug\GUIDemo.Properties.Resources.resources
+D:\ce3d\csharp\GUIDemo\GUIDemo\obj\Debug\GUIDemo.csproj.GenerateResource.cache
+D:\ce3d\csharp\GUIDemo\GUIDemo\obj\Debug\GUIDemo.csproj.CoreCompileInputs.cache
+D:\ce3d\csharp\GUIDemo\GUIDemo\bin\Debug\GUIDemo.exe.config
+D:\ce3d\csharp\GUIDemo\GUIDemo\bin\Debug\GUIDemo.exe
+D:\ce3d\csharp\GUIDemo\GUIDemo\bin\Debug\GUIDemo.pdb
+D:\ce3d\csharp\GUIDemo\GUIDemo\obj\Debug\GUIDemo.exe
+D:\ce3d\csharp\GUIDemo\GUIDemo\obj\Debug\GUIDemo.pdb
